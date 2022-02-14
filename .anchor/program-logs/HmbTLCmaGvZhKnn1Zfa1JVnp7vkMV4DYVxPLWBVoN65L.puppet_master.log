@@ -1,0 +1,45 @@
+Streaming transaction logs mentioning HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L. Confirmed commitment
+Transaction executed in slot 9:
+  Signature: 4JbtD59JpjT8wKQp6tiWZttVra29V6wXJ8s87xFJ1pEZKtsZDKk9Dbre9ZKBSf73ux5eMqpCZvJsSe7KcGTshbe
+  Status: Ok
+  Log Messages:
+    Program HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L invoke [1]
+    Program log: Instruction: CreateDepositVault
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3277 of 187764 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L consumed 21466 of 200000 compute units
+    Program HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L success
+Transaction executed in slot 11:
+  Signature: 4U4XQkhg6TdETqUWr7FAnukK5caiXF8F55N3Rhj5UgHrUoxJ34otNT73uFZrtqc5tGTH5nDekoARFhMAV58egeA4
+  Status: Ok
+  Log Messages:
+    Program HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L invoke [1]
+    Program log: Instruction: InitMint
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2280 of 184402 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L consumed 25438 of 200000 compute units
+    Program HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L success
+Transaction executed in slot 14:
+  Signature: 4tQ3PjxGF8B25N9Bnrjv1Jhsn92FwGSARx23iURDpVRJMCKztu2tkpq5cmncpa8i8mhjDBsMz7M8HFaKTSoWYfvA
+  Status: Ok
+  Log Messages:
+    Program HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L invoke [1]
+    Program log: Instruction: StakeTokens
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 184486 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2693 of 178296 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L consumed 25666 of 200000 compute units
+    Program HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L success
